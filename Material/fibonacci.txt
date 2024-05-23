@@ -1,0 +1,5 @@
+INPUT: 35, Method 1: 9227465, Time: 0.389 seconds
+INPUT: 35, Method 2: 9227465, Time: 0.0 seconds
+INPUT: 35, Method 3: 9227465, Time: 0.0 seconds
+INPUT: 43, Method 1: 433494437, Time: 13.353 seconds
+INPUT: 43, Method 2: 433494437, Time: 0.0 seconds

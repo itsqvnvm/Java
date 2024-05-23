@@ -1,0 +1,3 @@
+Converted 1000 from base 2 to base 16: 8
+Converted 1011 from base 2 to base 8: 13
+Converted 1111 from base 2 to base 10: 15
