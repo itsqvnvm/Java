@@ -1,0 +1,5 @@
+Binary Sort: [123, 2334, 2345], Time: 0 ms
+Bubble Sort: [123, 126, 12434], Time: 0 ms
+Selection Sort: [123, 126, 12434], Time: 0 ms
+Insertion Sort: [123, 126, 12434], Time: 0 ms
+Binary Sort: [123, 126, 12434], Time: 0 ms
